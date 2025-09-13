@@ -1,4 +1,6 @@
-# vr-lit-search
+# Literature Search of XR in AGU Publications
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17114605.svg)](https://doi.org/10.5281/zenodo.17114605)
+
 A cursory analysis of XR-related publications in AGU journals and Fall Meeting conference proceedings. 
 
 
