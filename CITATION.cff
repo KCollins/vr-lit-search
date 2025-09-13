@@ -1,0 +1,18 @@
+authors:
+- affiliation: Space Science Institute
+  family-names: Collins
+  given-names: Kristina
+  orcid: 0000-0002-3816-1948
+cff-version: 1.2.0
+date-released: '2025-09-13'
+doi: 10.5281/zenodo.17114605
+identifiers:
+- type: swh
+  value: swh:1:dir:149f83bac02e965c06ef3389880b7ff2aab18041;origin=https://doi.org/10.5281/zenodo.17114604;visit=swh:1:snp:922385606a76d289236603deda115e6a99f44847;anchor=swh:1:rel:94dd78253d7cf36e0ba135bf8939066e744af894;path=KCollins-vr-lit-search-de13717
+license:
+- cc-by-4.0
+message: If you use this software, please cite it using the metadata from this file.
+repository-code: https://github.com/KCollins/vr-lit-search/tree/v0.1.0
+title: Literature Search of XR in AGU Publications
+type: software
+version: v0.1.0
